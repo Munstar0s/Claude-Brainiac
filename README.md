@@ -344,7 +344,7 @@ rate limiting, and usage instructions.
 
 ## License
 
-MIT License — See [LICENSE](LICENSE) for details.
+See [LICENSE](LICENSE) for details.
 
 ---
 
