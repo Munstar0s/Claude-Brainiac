@@ -138,9 +138,9 @@ Brainiac designs and builds production-grade security tooling on demand.
 - Git
 
 ### Step 1 — Clone the Repository
-***clone into the global .claude directory
-   should look like this: ~/.claude/Brainiac <<--- correct 
-   should NOT look like this: ~/.claude/Brainiac/Brainiac <<--- incorrect! ***
+***clone into the global .claude directory***
+***should look like this: ~/.claude/Brainiac <<--- correct***
+***should NOT look like this: ~/.claude/Brainiac/Brainiac <<--- incorrect!***
 ```bash
 git clone https://github.com/Munstar0s/Claude-Brainiac.git
 cd brainiac
